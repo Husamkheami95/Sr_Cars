@@ -1,0 +1,15 @@
+.container {
+  @apply fixed left-0 top-0 bg-bluebold w-screen py-4 shadow-card  z-50 ;
+}
+.body {
+  @apply flex justify-between items-center max-w-[90%] m-auto h-full ;
+}
+.logo {
+  @apply flex items-center  ;
+}
+.ul {
+  @apply flex gap-12 justify-end  w-full ;
+}
+.li {
+  @apply text-white text-xl hover:text-purple-700;
+}

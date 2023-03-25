@@ -1,0 +1,16 @@
+.container{
+    @apply bg-[#0d1625] w-screen p-8 pt-3  bottom-0 shadow-card relative mt-10 overflow-hidden;
+}.body{
+    @apply  w-full m-auto space-y-8 max-w-[90%] pt-4 ;
+}.image{
+    @apply flex justify-end;
+}
+.social{
+    @apply flex  gap-3 justify-end ;
+}
+.socialItem{
+    @apply bg-white  text-3xl hover:bg-purple-700 rounded-full
+}
+.contact{
+    @apply text-white space-y-4 text-lg w-1/2;
+}
