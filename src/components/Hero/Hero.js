@@ -26,7 +26,7 @@ const Hero = () => {
       <SwiperSlide>
       <img src="./images/2.jpg" className="object-fill"/>
       </SwiperSlide>
-      <SwiperSlide>Slide 3</SwiperSlide>
+      <SwiperSlide>Slide 33</SwiperSlide>
       <SwiperSlide>Slide 4</SwiperSlide>
       <SwiperSlide>Slide 5</SwiperSlide>
       <SwiperSlide>Slide 6</SwiperSlide>
